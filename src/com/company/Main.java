@@ -6,7 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         int[][] matrix = init(4);
         print(matrix);
         System.out.println();

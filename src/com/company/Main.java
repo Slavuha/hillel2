@@ -4,7 +4,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-
+yoho
         int[][] matrix = init(4);
         print(matrix);
         System.out.println();
